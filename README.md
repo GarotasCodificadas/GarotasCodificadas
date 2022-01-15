@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Garotascodificadas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfelisiak&show_icons=true&theme=outrun)
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfelisiak&hide=html&layout=compact&theme=outrun" />
+![Garotascodificadas's GitHub stats](https://github-readme-stats.vercel.app/api?username=garotascodificadas&show_icons=true&theme=outrun)
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotascodificadask&hide=html&layout=compact&theme=outrun" />
 
 
 
