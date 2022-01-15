@@ -1,6 +1,6 @@
 ### Olá, boas vindas!
 
-![imagem-capa-git](web.png)
+![imagem-capa-git](bamergc.png)
 ### Garotas Codificadas! 
 <img width="300px" align="left" src="https://github.com/sfelisiak/sfelisiak/blob/main/profile-1-300x300.jpg" />
 
