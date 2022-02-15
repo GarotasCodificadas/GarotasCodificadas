@@ -1,6 +1,6 @@
 ### Olá, boas vindas!
 
-![imagem-capa-git](bamergc.png)
+![imagem-capa-git](banner.png)
 ### Garotas Codificadas! 
 <img width="300px" align="left" src="https://github.com/GarotasCodificadas/GarotasCodificadas/blob/main/GC.TEXTO-removebg-preview.png" />
 
